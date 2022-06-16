@@ -177,7 +177,7 @@ exports.submitRecipeOnPost = async(req, res) => {
 // Delete Recipe
 // async function deleteRecipe(){
 //   try {
-//     await Recipe.deleteOne({ name: 'New Recipe From Form' });
+//     await Recipe.deleteOne({ name: 'Lorem1' });
 //   } catch (error) {
 //     console.log(error);
 //   }
