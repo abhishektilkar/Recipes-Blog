@@ -17,4 +17,4 @@ Create a new file called .env. Change MONGODB_URL to yours db url.
 ## Run the server
 npm start
 
-##Congratulations##
+**Congratulations**
