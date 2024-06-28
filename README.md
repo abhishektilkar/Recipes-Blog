@@ -15,6 +15,6 @@ This command will install all the required dependancies.
 Create a new file called .env. Change MONGODB_URL to yours db url.
 
 ## Run the server
-`npm start`
+ `npm start`
 
 **Congratulations**
